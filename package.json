@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-async-error": "^0.0.2",
+    "morgan": "^1.10.0"
+  }
+}
